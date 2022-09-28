@@ -11,4 +11,4 @@ Question 6:Can't assess without the graphics<p>
 Question 7: Can't assess without the graphics<p>
 Bonus:
 
-General comments: Currently incomplete until you update with graphics.
+General comments: See my thoughts on your trouble with Q3 and Q5 above. This is now marked as complete.
